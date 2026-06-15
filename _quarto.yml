@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - Fonts
 
 website:
   title: "Safer Parks"
@@ -12,7 +14,6 @@ website:
 format:
   html:
     theme: [cosmo, theme.scss]
-    css: styles.css
     toc: true
     include-before-body: main.html
     

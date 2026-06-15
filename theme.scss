@@ -7,7 +7,7 @@ $font-family-sans-serif: "MrDodo Regular";
 /*-- scss:rules --*/
 @font-face{
   font-family: 'MrDodo Regular';
-  src: url('./Fonts/MrDodo-Regular.otf');
+  src: url('Fonts/MrDodo-Regular.otf');
   font-weight: 300;
   font-style: normal;
 }
@@ -35,6 +35,18 @@ h6,
   font-weight: 600;
 }
 
+.navbar-brand {
+  font-family: "MrDodo Regular", serif;
+  font-weight: 400;
+  font-size: 2.5rem !important;
+}
+
+.nav-item {
+  font-family: "MrDodo Regular", serif;
+  font-weight: 400;
+  font-size: 1rem !important;
+}
+
 // Override any hardcoded pixel font sizes to use relative units instead
 * {
   // Force all elements to respect user's font size preference
@@ -46,7 +58,7 @@ h6,
 }
 
 // Ensure navbar is visible in light theme
-.navbar {
-  background-color: #f8f9fa !important;
-  border-bottom: 1px solid #e9ecef;
-}
+// .navbar {
+//   background-color: #f8f9fa !important;
+//   border-bottom: 1px solid #e9ecef;
+// }
