@@ -1,0 +1,52 @@
+/*-- scss:defaults --*/
+$link-color: #572B6F;
+$text-muted: #0B5126;
+$web-font-path: "No";
+$font-family-sans-serif: "MrDodo Regular";
+
+/*-- scss:rules --*/
+@font-face{
+  font-family: 'MrDodo Regular';
+  src: url('./Fonts/MrDodo-Regular.otf');
+  font-weight: 300;
+  font-style: normal;
+}
+
+// Set sans-serif as default font family and honor user font size settings
+html {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  // Use user's preferred font size as the base
+  font-size: 100%; // This equals 1rem and honors browser/user settings
+}
+
+body {
+  font-family: inherit; // Inherit from html element
+}
+
+/* Use serif for headings to add personality */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.serif-section {
+  font-family: "MrDodo Regular", serif;
+  font-weight: 600;
+}
+
+// Override any hardcoded pixel font sizes to use relative units instead
+* {
+  // Force all elements to respect user's font size preference
+  font-size: revert !important;
+}
+
+.navbar .aa-DetachedSearchButton::after {
+  color: #545555;
+}
+
+// Ensure navbar is visible in light theme
+.navbar {
+  background-color: #f8f9fa !important;
+  border-bottom: 1px solid #e9ecef;
+}
