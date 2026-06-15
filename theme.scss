@@ -1,6 +1,7 @@
 /*-- scss:defaults --*/
 $link-color: #572B6F;
-$text-muted: #0B5126;
+$text-muted: #4F6C37;
+
 $web-font-path: "No";
 $font-family-sans-serif: "MrDodo Regular";
 
@@ -36,13 +37,13 @@ h6,
 }
 
 h1 {
-  color: #0B5126 !important;
+  color: #4F6C37 !important;
 }
 
 .navbar-brand {
   font-family: "MrDodo Regular", serif;
   font-weight: 400;
-  font-size: 2.5rem !important;
+  font-size: 2rem !important;
   color: white !important;
 }
 
@@ -117,10 +118,67 @@ h1 {
 
 .larger-bullets {
   font-size: 1.2rem !important;
+  font-family: "MrDodo Regular", serif;
   // line-height: 1.8;
   font-weight: 600;
 }
 
 .larger-bullets li {
   margin-top: 0.5rem;
+}
+
+/* Full Width Box */
+.full-width-box {
+  /* Stretch background across full width */
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  padding: 2rem 0;
+  margin-top: 6rem;
+  position: relative;
+  
+  /* Add background and text colors */
+  background-color: #4F6C37 !important;
+  color: #ffffff !important;
+}
+
+/* Keep paragraph content within normal margins */
+.full-width-box p {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 1.5rem !important;
+}
+
+.full-width-box::before {
+  content: '';
+  position: absolute;
+  top: -80px;
+  left: 0;
+  width: 100%;
+  height: 80px;
+  background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" preserveAspectRatio="none"><path d="M0,40 Q300,20 600,40 T1200,40 L1200,80 Q600,100 0,80 Z" fill="%234F6C37"/></svg>') no-repeat center top;
+  background-size: cover;
+}
+
+.hero-section {
+  background-color: #572B6F !important;
+  color: white !important;
+  padding: 3rem 0;
+  position: relative;
+}
+
+.hero-section .emphasis {
+  color: white !important;
+}
+
+.curve-divider {
+  display: block;
+  width: 100%;
+  height: 100px;
+  margin: -1px 0 0 0;
+}
+
+.color-white {
+  color: white !important;
 }

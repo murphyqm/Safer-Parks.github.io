@@ -7,7 +7,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Safer Parks"
+  title: "The Safer Parks Dashboard"
   navbar:
     left:
       - href: index.qmd
