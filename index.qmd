@@ -1,7 +1,37 @@
 ---
-title: "Safer Parks"
+title: "Welcome to The Safer Parks Dashboard!"
+toc: false
 ---
 
-Welcome to The Safer Parks Dashboard!
+[Supporting safer, more inclusive parks for women and girls]{.emphasis}
 
-Supporting safer, more inclusive parks for women and girls
+<br>
+
+::::{layout-ncol=2}
+
+::: {.column .larger-bullets}
+
+<br>
+
+- Visualise park safety factors
+- Explore spatial data layers
+- Make decisions with evidence
+- Create safer parks in your area
+
+
+:::
+
+::: {.column}
+![](assets/065_Benches copy.png){fig-align="center" width="100%"}
+:::
+
+::::
+
+The Safer Parks Dashboard helps local authorities, police forces, and community partners understand the environmental and social factors that shape how safe women and girls feel in parks.
+
+It brings together open spatial data on the indicators that matter most, including lighting, visibility, entrances and escape routes, crime patterns, footfall, and park facilities.
+
+Aligned with the *Safer Parks: Improving Access for Women and Girls'* guidance, the dashboard provides a clear evidence base to support better design, management, and prevention activity.
+
+Explore the data to see how this tool can support your work in creating parks that feel welcoming, inclusive, and safe for everyone.
+

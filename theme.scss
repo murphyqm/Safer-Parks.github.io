@@ -35,6 +35,10 @@ h6,
   font-weight: 600;
 }
 
+h1 {
+  color: #0B5126 !important;
+}
+
 .navbar-brand {
   font-family: "MrDodo Regular", serif;
   font-weight: 400;
@@ -42,10 +46,10 @@ h6,
   color: white !important;
 }
 
-.nav-item .nav-link .menu-item {
+.nav-item .nav-link .menu-text {
   font-family: "MrDodo Regular", serif;
   font-weight: 400;
-  font-size: 1rem !important;
+  font-size: 1.5rem !important;
 }
 
 .nav-item .nav-link {
@@ -82,8 +86,41 @@ h6,
   border-color: white !important;
 }
 
+.navbar .aa-DetachedSearchButton svg {
+  color: white !important;
+  stroke: white !important;
+}
+
+.navbar .aa-DetachedSearchButton svg path {
+  stroke: white !important;
+  fill: white !important;
+}
+
+.emphasis {
+  font-family: "MrDodo Regular", serif;
+  font-weight: 400;
+  font-size: 1.5rem !important;
+  color: #572B6F !important;
+}
+
+.larger-title {
+  font-family: "MrDodo Regular", serif;
+  font-weight: 600;
+  font-size: 2.5rem !important;
+}
+
 // Ensure navbar is visible in light theme
 // .navbar {
 //   background-color: #f8f9fa !important;
 //   border-bottom: 1px solid #e9ecef;
 // }
+
+.larger-bullets {
+  font-size: 1.2rem !important;
+  // line-height: 1.8;
+  font-weight: 600;
+}
+
+.larger-bullets li {
+  margin-top: 0.5rem;
+}

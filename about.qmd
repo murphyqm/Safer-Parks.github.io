@@ -2,4 +2,47 @@
 title: "About"
 ---
 
-About this site
+[A practical tool to strengthen park safety, design, and decision‑making]{.emphasis}
+
+The Safer Parks Dashboard has been developed to support professionals working across crime prevention, parks management, and place‑shaping. It brings together [open spatial data](#) and the principles of safer park design to provide clear, actionable insight into improving feelings of safety for women and girls. 
+
+Using the dashboard, partners can: 
+
+- identify where lighting, visibility, or access improvements may be needed 
+- understand movement patterns and likely footfall using network analysis (in development)
+- assess park entrances, unofficial access points, and escape routes 
+- review amenities such as benches, toilets, and play areas at both site and regional level 
+
+By combining data layers, police and councils can target resources more effectively, aid scanning and analysis stages of SARA model problem-solving, inform Environmental Visual Audits, enhance patrol planning, undertake accessibility audits and strengthen park management plans. Friends of Parks groups and community organisations can also use the tool to inform local projects, identify opportunities, and collaborate with authorities. 
+
+[Our aim is simple: to make parks feel safer and more welcoming for women and girls, and to support the prevention of violence against women and girls (VAWG) in public spaces.]{.emphasis}
+
+## The evidence base behind the dashboard 
+
+The dashboard is grounded in Safer Parks: Improving Access for Women and Girls, guidance developed through extensive research and engagement with women and teenage girls, parks managers, urban designers, police, and others. This research identified the environmental and social factors that most influence feelings of safety and the guidance sets out ten guiding principles for safer park design and management, organised across three themes: 
+
+### Eyes on the Park 
+
+Safety increases when parks feel welcoming, and well‑used. Everyday activity, programmed events, and routine footfall create natural surveillance. Visible, skilled staff and volunteers signal that the space is cared for and monitored. 
+
+![](assets/065_Benches copy.png){fig-align="center" width="50%"}
+
+### Awareness 
+
+Design features that support awareness such as good visibility, suitable lighting, open sightlines and layouts that are easy to navigate help users feel secure. These elements reduce uncertainty, make escape routes clear, and help people intuitively understand the space around them. 
+
+![](assets/Safer Parks_Exposed spots.png){fig-align="center" width="50%"}
+
+### Inclusion 
+
+A sense of belonging plays a vital role in safety. Inclusion means co‑producing parks with communities from early design through long‑term management, and creating environments that feel welcoming, familiar, and reflective of diverse needs and identities. 
+
+![](assets/065_Lighting_edits.png){fig-align="center" width="50%"}
+
+## How this evidence is translated into practice
+
+The Safer Parks Dashboard puts this guidance into action by mapping open spatial data—including calculated entrances, visibility modelling, predicted footfall, lighting density, crime patterns, and facilities. Developed through ongoing co‑design with partners [link to partners page], including local authorities, police, and community groups, the dashboard reflects real operational needs and challenges.  
+
+A data‑driven approach can strengthen decision‑making, support VAWG prevention, and enable targeted improvements that increase women’s and girls’ confidence, access, and use of parks. 
+
+Together, the guidance and the dashboard offer a practical approach to designing and managing safer, more inclusive parks. 
