@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://murphyqm.github.io/Safer-Parks.github.io/index.html</loc>
-    <lastmod>2026-06-15T11:07:18.895Z</lastmod>
+    <loc>https://murphyqm.github.io/Safer-Parks.github.io/partners.html</loc>
+    <lastmod>2026-06-15T11:47:04.185Z</lastmod>
   </url>
   <url>
     <loc>https://murphyqm.github.io/Safer-Parks.github.io/about.html</loc>
-    <lastmod>2026-06-15T11:07:18.885Z</lastmod>
+    <lastmod>2026-06-15T11:47:04.147Z</lastmod>
+  </url>
+  <url>
+    <loc>https://murphyqm.github.io/Safer-Parks.github.io/data.html</loc>
+    <lastmod>2026-06-15T11:47:04.185Z</lastmod>
+  </url>
+  <url>
+    <loc>https://murphyqm.github.io/Safer-Parks.github.io/methods.html</loc>
+    <lastmod>2026-06-15T11:47:04.185Z</lastmod>
+  </url>
+  <url>
+    <loc>https://murphyqm.github.io/Safer-Parks.github.io/index.html</loc>
+    <lastmod>2026-06-15T11:47:04.185Z</lastmod>
   </url>
 </urlset>
