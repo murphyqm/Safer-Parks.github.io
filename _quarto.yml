@@ -3,6 +3,9 @@ project:
   resources:
     - Fonts
 
+execute:
+  freeze: auto
+
 website:
   title: "Safer Parks"
   navbar:
