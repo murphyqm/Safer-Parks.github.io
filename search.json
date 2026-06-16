@@ -35,9 +35,9 @@
     "text": "How this evidence is translated into practice\nThe Safer Parks Dashboard puts this guidance into action by mapping open spatial data—including calculated entrances, visibility modelling, predicted footfall, lighting density, crime patterns, and facilities. Developed through ongoing co‑design with partners [link to partners page], including local authorities, police, and community groups, the dashboard reflects real operational needs and challenges.\nA data‑driven approach can strengthen decision‑making, support VAWG prevention, and enable targeted improvements that increase women’s and girls’ confidence, access, and use of parks.\nTogether, the guidance and the dashboard offer a practical approach to designing and managing safer, more inclusive parks."
   },
   {
-    "objectID": "data.html",
-    "href": "data.html",
-    "title": "Data & Methods",
+    "objectID": "guide.html",
+    "href": "guide.html",
+    "title": "How to use",
     "section": "",
     "text": "© University of Leeds, 2025 | About | Privacy & Cookies | Accessibility"
   },
@@ -91,11 +91,32 @@
     "text": "Contact & More Information\nFor questions about privacy, data protection, or the handling of personal data, please contact the University of Leeds in accordance with GDPR requirements.\nFor research-related inquiries about this dashboard, please visit our About page or complete the feedback form linked throughout the dashboard."
   },
   {
-    "objectID": "guide.html",
-    "href": "guide.html",
-    "title": "How to use",
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data & Methods",
     "section": "",
     "text": "© University of Leeds, 2025 | About | Privacy & Cookies | Accessibility"
+  },
+  {
+    "objectID": "launch.html",
+    "href": "launch.html",
+    "title": "Select your region",
+    "section": "",
+    "text": "Please select your region from the list below to launch the relevant view on the dashboard.\nTip: bookmark your region’s dashboard view for quick access in the future.\n© University of Leeds, 2025 | About | Privacy & Cookies | Accessibility"
+  },
+  {
+    "objectID": "launch.html#england",
+    "href": "launch.html#england",
+    "title": "Select your region",
+    "section": "England",
+    "text": "England\nList of regions here"
+  },
+  {
+    "objectID": "launch.html#wales",
+    "href": "launch.html#wales",
+    "title": "Select your region",
+    "section": "Wales",
+    "text": "Wales\nList of regions here"
   },
   {
     "objectID": "index.html",
