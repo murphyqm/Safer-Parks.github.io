@@ -4,7 +4,7 @@ title: "About"
 
 [A practical tool to strengthen park safety, design, and decision‑making]{.emphasis}
 
-The Safer Parks Dashboard has been developed to support professionals working across crime prevention, parks management, and place‑shaping. It brings together [open spatial data](#) and the principles of safer park design to provide clear, actionable insight into improving feelings of safety for women and girls. 
+The Safer Parks Dashboard has been developed to support professionals working across crime prevention, parks management, and place‑shaping. It brings together [open spatial data](#) and the principles of safer park design to provide clear, actionable insight into improving feelings of safety for women and girls.
 
 Using the dashboard, partners can: 
 
@@ -12,6 +12,10 @@ Using the dashboard, partners can:
 - understand movement patterns and likely footfall using network analysis (in development)
 - assess park entrances, unofficial access points, and escape routes 
 - review amenities such as benches, toilets, and play areas at both site and regional level 
+
+::: {.column-page-inset}
+![Overview of a park highlighting the key principles of a safer park, from the [Guidance](https://www.makespaceforgirls.co.uk/resources/safer-parks-for-women-and-girls-guidance)](assets/Safer-Parks-Strategy-Harper-Perry-05.jpg){fig-align="center" width="100%" fig-alt="Overview sketch of a park with trees, paths, benches, and a playground. The sketch is annotated with arrows and text highlighting entrances, escape routes, and areas of visibility."}
+:::
 
 By combining data layers, police and councils can target resources more effectively, aid scanning and analysis stages of SARA model problem-solving, inform Environmental Visual Audits, enhance patrol planning, undertake accessibility audits and strengthen park management plans. Friends of Parks groups and community organisations can also use the tool to inform local projects, identify opportunities, and collaborate with authorities. 
 
@@ -21,23 +25,70 @@ By combining data layers, police and councils can target resources more effectiv
 
 The dashboard is grounded in Safer Parks: Improving Access for Women and Girls, guidance developed through extensive research and engagement with women and teenage girls, parks managers, urban designers, police, and others. This research identified the environmental and social factors that most influence feelings of safety and the guidance sets out ten guiding principles for safer park design and management, organised across three themes: 
 
+
+:::: {.column-page-inset}
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.text-box-eyes}
 ### Eyes on the Park 
 
 Safety increases when parks feel welcoming, and well‑used. Everyday activity, programmed events, and routine footfall create natural surveillance. Visible, skilled staff and volunteers signal that the space is cared for and monitored. 
 
-![](assets/065_Benches copy.png){fig-align="center" width="50%"}
+::: {.larger-bullets2}
 
+- Busyness and Activation
+- Staffing and Authority Figures
+
+:::
+
+:::
+:::
+  
+::: {.g-col-12 .g-col-md-4}
+
+::: {.text-box-aware}
 ### Awareness 
 
 Design features that support awareness such as good visibility, suitable lighting, open sightlines and layouts that are easy to navigate help users feel secure. These elements reduce uncertainty, make escape routes clear, and help people intuitively understand the space around them. 
 
-![](assets/Safer Parks_Exposed spots.png){fig-align="center" width="50%"}
+::: {.larger-bullets2}
 
+- Visibility and Openness
+- Escape
+- Lighting
+- Wayfinding and Layout
+
+:::
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+:::{.text-box-incl}
 ### Inclusion 
 
 A sense of belonging plays a vital role in safety. Inclusion means co‑producing parks with communities from early design through long‑term management, and creating environments that feel welcoming, familiar, and reflective of diverse needs and identities. 
 
-![](assets/065_Lighting_edits.png){fig-align="center" width="50%"}
+::: {.larger-bullets2}
+
+- Belonging and Familiarity
+- Image
+- Access and Location
+- Co-production and Engagement
+
+:::
+
+:::
+
+:::
+  
+:::
+
+::::
 
 ## How this evidence is translated into practice
 

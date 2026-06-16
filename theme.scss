@@ -142,6 +142,13 @@ h1 {
   margin-top: 0.5rem;
 }
 
+.larger-bullets2 {
+  font-size: 1.2rem !important;
+  font-family: "MrDodo Regular", serif;
+  // line-height: 1.8;
+  font-weight: 400;
+}
+
 /* Full Width Box */
 .full-width-box {
   /* Stretch background across full width */
@@ -315,4 +322,41 @@ h1 {
 
 .nav-item:last-child {
   margin-left: auto !important;
+}
+
+.text-box-eyes{
+  padding: 1.5rem;
+  padding-top: 0.5rem;
+  border-radius: 12px;
+  border: 10px solid #4F6C37;
+  color: #572B6F;
+  background-color: #C7DAB9;
+  font-size: 1.1rem !important;
+}
+
+.text-box-aware{
+  padding: 1.5rem;
+  padding-top: 0.5rem;
+  border-radius: 12px;
+  border: 10px solid #0C559E;
+  color: #572B6F;
+  background-color: #C7DAB9;
+  font-size: 1.1rem !important;
+}
+
+.text-box-incl{
+  padding: 1.5rem;
+  padding-top: 0.5rem;
+  border-radius: 12px;
+  border: 10px solid #ED645E;
+  color: #572B6F;
+  background-color: #C7DAB9;
+  font-size: 1.1rem !important;
+}
+
+.text-box-eyes,
+.text-box-aware,
+.text-box-incl {
+  flex: 1;
+  height:100%;
 }

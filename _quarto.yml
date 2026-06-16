@@ -8,6 +8,7 @@ execute:
 
 website:
   title: "The Safer Parks Dashboard"
+  body-footer: <p><small>© University of Leeds, 2025 | <a href="about.html">About</a> | <a href="privacy.html">Privacy & Cookies</a> | <a href="https://www.leeds.ac.uk/about/doc/accessibility-statement" target="_blank" rel="noopener">Accessibility</a></small></p> | <p><small><a href="#" id="open_preferences_center">Update cookies preferences</a></small></p>
   navbar:
     left:
       - href: index.qmd
