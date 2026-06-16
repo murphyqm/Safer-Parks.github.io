@@ -13,9 +13,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - partners.qmd
+      - guide.qmd
       - data.qmd
-      - methods.qmd
+      - partners.qmd
 
 format:
   html:

@@ -97,6 +97,15 @@ h1 {
   fill: #D5D2E5 !important;
 }
 
+.nav-item .nav-link:hover .menu-text {
+  color: #C7DAB9 !important;
+}
+
+.nav-item .nav-link.active .menu-text {
+  color: #C7DAB9 !important;
+  font-weight: 700 !important;
+}
+
 .emphasis {
   font-family: "MrDodo Regular", serif;
   font-weight: 400;
@@ -226,4 +235,42 @@ h1 {
 
 .rounded-pill {
   border-radius: 50px !important;
+}
+
+.g-col-12 .g-col-md-6 img {
+  box-shadow: 0 0 30px #C7DAB9;
+  border-radius: 8px;
+}
+
+.text-box {
+  padding: 2rem;
+  border-radius: 12px;
+  color: #572B6F;
+  background-color: #C7DAB9;
+  font-size: 1.25rem;
+}
+
+.text-box p {
+  margin-bottom: 1rem;
+}
+
+.text-box p:last-child {
+  margin-bottom: 0;
+}
+
+
+.text-box1 {
+  padding: 2rem;
+  border-radius: 12px;
+  color: #572B6F;
+  background-color: #C7DAB9;
+  font-size: 1.25rem !important;
+}
+
+.text-box1 p {
+  margin-bottom: 1rem;
+}
+
+.text-box1 p:last-child {
+  margin-bottom: 0;
 }
