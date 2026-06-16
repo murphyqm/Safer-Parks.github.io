@@ -44,7 +44,7 @@ h1 {
   font-family: "MrDodo Regular", serif;
   font-weight: 400;
   font-size: 2rem !important;
-  color: white !important;
+  color: #D5D2E5 !important;
 }
 
 .nav-item .nav-link .menu-text {
@@ -54,15 +54,15 @@ h1 {
 }
 
 .nav-item .nav-link {
-  color: white !important;
+  color: #D5D2E5 !important;
 }
 
 .nav-item .nav-link .menu-text {
-  color: white !important;
+  color: #D5D2E5 !important;
 }
 
 .navbar-toggler {
-  color: white !important;
+  color: #D5D2E5 !important;
 }
 
 .navbar-toggler-icon {
@@ -76,7 +76,7 @@ h1 {
 }
 
 .navbar .aa-DetachedSearchButton::after {
-  color: white !important;
+  color: #D5D2E5 !important;
 }
 
 .navbar {
@@ -84,17 +84,17 @@ h1 {
 }
 
 .navbar-toggler-icon {
-  border-color: white !important;
+  border-color: #D5D2E5 !important;
 }
 
 .navbar .aa-DetachedSearchButton svg {
-  color: white !important;
-  stroke: white !important;
+  color: #D5D2E5 !important;
+  stroke: #D5D2E5 !important;
 }
 
 .navbar .aa-DetachedSearchButton svg path {
-  stroke: white !important;
-  fill: white !important;
+  stroke: #D5D2E5 !important;
+  fill: #D5D2E5 !important;
 }
 
 .emphasis {
@@ -181,4 +181,49 @@ h1 {
 
 .color-white {
   color: white !important;
+}
+
+.emphasis-white {
+  font-family: "MrDodo Regular", serif;
+  font-weight: 400;
+  font-size: 1.5rem !important;
+  color: white !important;
+}
+
+.color-pale {
+  color: #D5D2E5 !important;
+}
+
+.emphasis-pale {
+  font-family: "MrDodo Regular", serif;
+  font-weight: 400;
+  font-size: 1.5rem !important;
+  color: #C7DAB9 !important;
+}
+
+
+.color-pale-green {
+  color: #C7DAB9 !important;
+}
+
+.btn-primary {
+  background-color: #4F6C37 !important;
+  font-family: "MrDodo Regular", serif;
+  border-color: #C7DAB9!important;
+  color: white !important;
+  padding: 0.75rem 2rem !important;
+}
+
+.btn-primary:hover {
+  background-color: #3d5229 !important;
+  border-color: #3d5229 !important;
+}
+
+.btn-lg {
+  font-size: 1.25rem !important;
+  padding: 0.75rem 2.5rem !important;
+}
+
+.rounded-pill {
+  border-radius: 50px !important;
 }
