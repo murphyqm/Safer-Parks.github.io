@@ -50,7 +50,7 @@ h1 {
 .nav-item .nav-link .menu-text {
   font-family: "MrDodo Regular", serif;
   font-weight: 400;
-  font-size: 1.5rem !important;
+  font-size: 1.2rem !important;
 }
 
 .nav-item .nav-link {
@@ -273,4 +273,28 @@ h1 {
 
 .text-box1 p:last-child {
   margin-bottom: 0;
+}
+
+.text-box2 {
+  padding: 2rem;
+  font-size: 1.25rem !important;
+}
+
+.nav-item:last-child .nav-link .menu-text {
+  font-weight: 700 !important;
+  font-size: 1rem !important;
+  background-color: #C7DAB9 !important;
+  color: #572B6F !important;
+  padding: 0.25rem 1rem !important;
+  border-radius: 50px !important;
+  display: inline-block;
+}
+
+.nav-item:last-child .nav-link:hover .menu-text {
+  background-color: #B5C89E !important;
+  color: #572B6F !important;
+}
+
+.nav-item:last-child {
+  margin-left: auto !important;
 }
