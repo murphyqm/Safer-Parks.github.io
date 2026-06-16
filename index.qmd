@@ -47,7 +47,6 @@ This dashboard is currently in user testing. Datasets, text, and layout are not 
 [Report something broken](https://safer-parks.github.io/archived-dashboard-wyca/dashboard.html){.btn .btn-primary .btn-lg .rounded-pill} [Complete pilot user survey](https://safer-parks.github.io/archived-dashboard-wyca/dashboard.html){.btn .btn-primary .btn-lg .rounded-pill} 
 ::::
 
-<br>
 
 <details>
   <summary style="color: #572B6F !important;">Warranty and liability (click to expand)</summary>
