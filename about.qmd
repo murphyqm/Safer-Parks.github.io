@@ -92,23 +92,23 @@ A sense of belonging plays a vital role in safety. Inclusion means co‑producin
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-4 .img-box}
 
-![](assets/eyes-on-the-park/Safer Parks_Personal Trainer.png){fig-align="right" fig-alt="A sketch of a park with exercise classes with personal trainers taking place."}
+![](assets/eyes-on-the-park/Safer Parks_Personal Trainer.png){width="80%" fig-align="center" fig-alt="A sketch of a park with exercise classes with personal trainers taking place."}
 
 :::
   
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-4 .img-box}
 
 
-![](assets/eyes-on-the-park/Safer Parks_Shrubbery and trees.png){fig-align="right" fig-alt="A sketch of a park with exercise classes with personal trainers taking place."}
+![](assets/eyes-on-the-park/Safer Parks_Shrubbery and trees.png){width="80%" fig-align="center" fig-alt="A sketch of a park with exercise classes with personal trainers taking place."}
 
 :::
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-4 .img-box}
 
 
-![](assets/eyes-on-the-park/Safer Parks_Multiple exits.png){fig-align="right" fig-alt="A sketch of a park with multiple exists highlighted."}
+![](assets/eyes-on-the-park/Safer Parks_Multiple exits.png){width="85%" fig-align="center" fig-alt="A sketch of a park with multiple exists highlighted."}
 
 
 :::

@@ -379,13 +379,13 @@ h2, .h2 {
 //   }
 // }
 
-.g-col-12.g-col-md-4 {
-  display: flex;
-  
-  img {
-    align-content: baseline;
-  }
-}
+// .g-col-12.g-col-md-4 {
+//   display: flex;
+
+//   img {
+//     align-content: baseline;
+//   }
+// }
 
 .text-box-eyes,
 .text-box-aware,
@@ -401,4 +401,17 @@ h2, .h2 {
   // }
 }
 
+.grid .g-col-12.g-col-md-4 {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
 
+// .grid figure {
+//   width: 100%;
+//   margin: 0;
+// }
+
+.img-box {
+  padding: 1rem;
+}
