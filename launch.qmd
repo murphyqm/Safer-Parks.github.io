@@ -1,0 +1,29 @@
+---
+title: "Select your region"
+toc: false
+---
+
+Please select your region from the list below to launch the relevant view on the dashboard.
+
+Tip: bookmark your region's dashboard view for quick access in the future.
+
+::::{.grid}
+
+::: {.g-col-12 .g-col-md-6 }
+
+## England
+
+List of regions here
+
+:::
+
+::: {.g-col-12 .g-col-md-6 }
+
+## Wales
+
+List of regions here
+
+:::
+
+
+::::

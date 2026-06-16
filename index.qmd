@@ -31,7 +31,7 @@ toc: false
 ::::
 
 ::::{.d-flex .justify-content-center}
-[Launch the dashboard](https://safer-parks.github.io/archived-dashboard-wyca/dashboard.html){.btn .btn-primary .btn-lg .rounded-pill}
+[Launch the dashboard](launch.qmd){.btn .btn-primary .btn-lg .rounded-pill}
 ::::
 
 <br>

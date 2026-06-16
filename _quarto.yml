@@ -18,8 +18,7 @@ website:
       - data.qmd
       - partners.qmd
       - text: Launch
-        href: https://safer-parks.github.io/archived-dashboard-wyca/dashboard.html
-        target: _blank
+        href: launch.qmd
 
 format:
   html:
