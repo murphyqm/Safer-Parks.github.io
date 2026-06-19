@@ -124,6 +124,13 @@ h1 {
   color: #572B6F !important;
 }
 
+.emphasis2 {
+  font-family: "MrDodo Regular", serif;
+  font-weight: 100;
+  font-size: 1.1rem !important;
+  color: #572B6F !important;
+}
+
 .larger-title {
   font-family: "MrDodo Regular", serif;
   font-weight: 600;
@@ -498,4 +505,32 @@ div.callout-note.callout-titled .callout-icon::before {
 .pdf-preview iframe {
   border: none;
   border-radius: 8px;
+}
+
+
+table {
+  table-layout: fixed;
+  width: 100%;
+  margin-left: 0.5rem;
+}
+
+table col {
+  width: auto;
+}
+
+table td,
+table th {
+  border: 1px solid #cccccc;
+  padding: 0.75rem;
+  vertical-align: top !important;
+}
+
+table th {
+  background-color: #f8f8f8;
+  border: 1px solid #999999;
+  font-weight: 600;
+}
+
+.table-style {
+  font-size: 0.8rem;
 }

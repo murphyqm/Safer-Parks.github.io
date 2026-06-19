@@ -581,28 +581,28 @@ This layer uses Ordnance Survey and OpenStreetMap.
 
 ## Suggested layer combinations 
 
-- [Visibility Analysis + Foliage ]{.emphasis}
+- [Visibility Analysis + Foliage ]{.emphasis2}
     - Where might vegetation be contributing to poor sightlines? This combination helps identify areas where targeted maintenance could improve visibility. 
 
-- [Benches & Picnic Tables + Visibility Analysis + Street Lighting + Foliage ]{.emphasis} 
+- [Benches & Picnic Tables + Visibility Analysis + Street Lighting + Foliage ]{.emphasis2} 
     - Is seating located in well-lit, visible areas? This combination helps assess whether seating feels safe and highlights whether improvements could encourage use. 
 
-- [Predicted Route Popularity + Street Lighting ]{.emphasis}
+- [Predicted Route Popularity + Street Lighting ]{.emphasis2}
     - Are the most-used routes adequately lit? This combination helps identify priority routes for lighting improvements, particularly for after dark and evening use. 
 
-- [Access and Exit points + Predicted Route Popularity + Demographics ]{.emphasis}
+- [Access and Exit points + Predicted Route Popularity + Demographics ]{.emphasis2}
     - Do entrances and key routes serve the surrounding population effectively? This combination can highlight where  additional access points or improved routes could support greater use and activation.  
 
-- [Access and Exit points + Predicted Route Popularity + Street Lighting + Visibility Analysis]{.emphasis}
+- [Access and Exit points + Predicted Route Popularity + Street Lighting + Visibility Analysis]{.emphasis2}
     - What is the safety context at entrances and exits? This combination helps assess how busy, visible, and well lit these areas are.  
 
-- [Park Features + Demographics Data]{.emphasis}
+- [Park Features + Demographics Data]{.emphasis2}
     - Do park facilities reflect the needs of the local population? This combination supports more inclusive and responsive provision.  
 
-- [Demographics Data + Park Boundary + Access and Exit points  ]{.emphasis}
+- [Demographics Data + Park Boundary + Access and Exit points  ]{.emphasis2}
     - Who lives within walking distance of the park, and how well are they served? This combination helps assess whether access and provision reflect local needs. 
 
-- [Visibility Analysis + Street Lighting + Foliage ]{.emphasis} 
+- [Visibility Analysis + Street Lighting + Foliage ]{.emphasis2} 
     - Where are the highest-priority areas for intervention? This  combination highlights where low visibility, poor lighting, and dense vegetation overlap.  
 
 ## Guided use case studies: Peel Park, Bradford 
@@ -662,92 +662,116 @@ The northern section of the park, identified in Use Case 1 as having both  high 
 
 ## Appendix: Dashboard Layers and Crime Prevention Frameworks 
 
-The Safer Parks Dashboard layers have been designed in alignment with the Safer Parks guidance (Safer Parks Consortium, 2025). They also connect to broader crime prevention frameworks, including the Ten Principles of Crime Prevention developed by Secured by Design, and the evidence base on effective interventions to reduce violence against women and girls in public spaces (Home Office, 2025). The table below maps each dashboard layer to the most relevant crime prevention principle, where applicable.  
+The Safer Parks Dashboard layers have been designed in alignment with
+the Safer Parks guidance (Safer Parks Consortium, 2025). They also
+connect to broader crime prevention frameworks, including the Ten
+Principles of Crime Prevention developed by Secured by Design, and the
+evidence base on effective interventions to reduce violence against
+women and girls in public spaces (Home Office, 2025). The table below
+maps each dashboard layer to the most relevant crime prevention
+principle, where applicable.
 
- 
+<table>
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 44%" />
+</colgroup>
+<thead>
+<tr>
+<th><strong>Data layer</strong></th>
+<th><strong>Relevant principle</strong></th>
+<th><strong>Summary</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Park Boundary</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Access and Exit Points</td>
+<td>Principle 5: Access Control</td>
+<td>Reducing or managing access to vulnerable areas limits criminal
+opportunity. Understanding entry and exit points supports decisions
+about park access design and management.</td>
+</tr>
+<tr>
+<td>Active Travel Route</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Basemap</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Predicted Route Popularity</td>
+<td>Principle 6: Surveillance</td>
+<td>Natural surveillance is strengthened by the presence of people.
+Routes with higher footfall support informal surveillance through
+activity and visibility.</td>
+</tr>
+<tr>
+<td>Visibility Analysis</td>
+<td>Principle 6: Surveillance</td>
+<td>Clear sightlines support natural surveillance. Areas with poor
+visibility may reduce the perception of safety and limit informal
+oversight.</td>
+</tr>
+<tr>
+<td>Demographics Data</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Park Features</td>
+<td>Principle 7: Environmental Change</td>
+<td>Well-designed and maintained environments are less likely to
+experience crime. Facilities and amenities attract activity and
+contribute to a sense of care and ownership of space.</td>
+</tr>
+<tr>
+<td>Trees</td>
+<td>Principle 7: Environmental Change</td>
+<td>Vegetation contributes to environmental quality but can also reduce
+sightlines. Thoughtful planting and maintenance support both amenity and
+safety.</td>
+</tr>
+<tr>
+<td>Street Lighting</td>
+<td>Principles 6 and 9: Surveillance; Increase the Chances of Being
+Caught</td>
+<td>Lighting supports both natural and formal surveillance and increases
+the likelihood that offenders will be seen and identified.</td>
+</tr>
+<tr>
+<td>Benches and Picnic Tables</td>
+<td>Principle 7: Environmental Change</td>
+<td>Seating encourages people to spend time in parks, increasing natural
+surveillance and a sense of community ownership of space.</td>
+</tr>
+</tbody>
+</table>
 
-Data layer 
+**References**
 
-Relevant principle 
+Safer Parks Consortium. (2025). Safer Parks: Improving Access for Women
+and Girls (2nd ed.). Leeds: University of Leeds.
+https://doi.org/10.48785/100/352
 
-Summary 
+Secured by Design. (n.d.). The ten principles of crime prevention.
+<https://crimeprevention.securedbydesign.com/the-ten-principles-of-crime-prevention>
 
-Park Boundary 
+Home Office. (2025). What works to reduce violence against women and
+girls: A summary of the evidence. Crown copyright.
+<https://assets.publishing.service.gov.uk/media/6943f8a5143d960161547e74/31.260_VAWG_03_Evidence_Review_FINAL_181225_WEB.pdf>
 
-— 
+Department for Environment, Food & Rural Affairs (DEFRA). (2022). LiDAR
+composite digital surface model and digital terrain model. Data.gov.uk.
+<https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme>
 
-— 
-
-Access and Exit Points 
-
-Principle 5: Access Control 
-
-Reducing or managing access to vulnerable areas limits criminal opportunity. Understanding entry and exit points supports decisions about park access design and management. 
-
-Active Travel Route 
-
-— 
-
-— 
-
-Basemap 
-
-— 
-
-— 
-
-Predicted Route Popularity 
-
-Principle 6: Surveillance 
-
-Natural surveillance is strengthened by the presence of people. Routes with higher footfall support informal surveillance through activity and visibility. 
-
-Visibility Analysis 
-
-Principle 6: Surveillance 
-
-Clear sightlines support natural surveillance. Areas with poor visibility may reduce the perception of safety and limit informal oversight. 
-
-Demographics Data 
-
-— 
-
-— 
-
-Park Features 
-
-Principle 7: Environmental Change 
-
-Well-designed and maintained environments are less likely to experience crime. Facilities and amenities attract activity and contribute to a sense of care and ownership of space. 
-
-Foliage 
-
-Principle 7: Environmental Change 
-
-Vegetation contributes to environmental quality but can also reduce sightlines. Thoughtful planting and maintenance support both amenity and safety. 
-
-Street Lighting 
-
-Principles 6 and 9: Surveillance; Increase the Chances of Being Caught 
-
-Lighting supports both natural and formal surveillance and increases the likelihood that offenders will be seen and identified. 
-
-Benches and Picnic Tables 
-
-Principle 7: Environmental Change 
-
-Seating encourages people to spend time in parks, increasing natural surveillance and a sense of community ownership of space. 
-
- 
-
-References 
-
-Safer Parks Consortium. (2025). Safer Parks: Improving Access for Women and Girls (2nd ed.). Leeds: University of Leeds. https://doi.org/10.48785/100/352  
-
-Secured by Design. (n.d.). The ten principles of crime prevention. https://crimeprevention.securedbydesign.com/the-ten-principles-of-crime-prevention  
-
-Home Office. (2025). What works to reduce violence against women and girls: A summary of the evidence. Crown copyright. https://assets.publishing.service.gov.uk/media/6943f8a5143d960161547e74/31.260_VAWG_03_Evidence_Review_FINAL_181225_WEB.pdf  
-
-Department for Environment, Food & Rural Affairs (DEFRA). (2022). LiDAR composite digital surface model and digital terrain model. Data.gov.uk. https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme  
-
-OpenStreetMap contributors. (2024). OpenStreetMap data via Geofabrik. https://download.geofabrik.de/  
+OpenStreetMap contributors. (2024). OpenStreetMap data via Geofabrik.
+<https://download.geofabrik.de/>
