@@ -43,7 +43,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-5ef6ef45497cdb5872b2226f2b0b974d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-9115d76e6af27959bab40945b47e8131.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -640,35 +640,35 @@ ul.task-list li input[type="checkbox"] {
 <section id="suggested-layer-combinations" class="level2">
 <h2 class="anchored" data-anchor-id="suggested-layer-combinations">Suggested layer combinations</h2>
 <ul>
-<li><span class="emphasis">Visibility Analysis + Foliage</span>
+<li><span class="emphasis2">Visibility Analysis + Foliage</span>
 <ul>
 <li>Where might vegetation be contributing to poor sightlines? This combination helps identify areas where targeted maintenance could improve visibility.</li>
 </ul></li>
-<li><span class="emphasis">Benches &amp; Picnic Tables + Visibility Analysis + Street Lighting + Foliage</span>
+<li><span class="emphasis2">Benches &amp; Picnic Tables + Visibility Analysis + Street Lighting + Foliage</span>
 <ul>
 <li>Is seating located in well-lit, visible areas? This combination helps assess whether seating feels safe and highlights whether improvements could encourage use.</li>
 </ul></li>
-<li><span class="emphasis">Predicted Route Popularity + Street Lighting</span>
+<li><span class="emphasis2">Predicted Route Popularity + Street Lighting</span>
 <ul>
 <li>Are the most-used routes adequately lit? This combination helps identify priority routes for lighting improvements, particularly for after dark and evening use.</li>
 </ul></li>
-<li><span class="emphasis">Access and Exit points + Predicted Route Popularity + Demographics</span>
+<li><span class="emphasis2">Access and Exit points + Predicted Route Popularity + Demographics</span>
 <ul>
 <li>Do entrances and key routes serve the surrounding population effectively? This combination can highlight where additional access points or improved routes could support greater use and activation.</li>
 </ul></li>
-<li><span class="emphasis">Access and Exit points + Predicted Route Popularity + Street Lighting + Visibility Analysis</span>
+<li><span class="emphasis2">Access and Exit points + Predicted Route Popularity + Street Lighting + Visibility Analysis</span>
 <ul>
 <li>What is the safety context at entrances and exits? This combination helps assess how busy, visible, and well lit these areas are.</li>
 </ul></li>
-<li><span class="emphasis">Park Features + Demographics Data</span>
+<li><span class="emphasis2">Park Features + Demographics Data</span>
 <ul>
 <li>Do park facilities reflect the needs of the local population? This combination supports more inclusive and responsive provision.</li>
 </ul></li>
-<li><span class="emphasis">Demographics Data + Park Boundary + Access and Exit points</span>
+<li><span class="emphasis2">Demographics Data + Park Boundary + Access and Exit points</span>
 <ul>
 <li>Who lives within walking distance of the park, and how well are they served? This combination helps assess whether access and provision reflect local needs.</li>
 </ul></li>
-<li><span class="emphasis">Visibility Analysis + Street Lighting + Foliage</span>
+<li><span class="emphasis2">Visibility Analysis + Street Lighting + Foliage</span>
 <ul>
 <li>Where are the highest-priority areas for intervention? This combination highlights where low visibility, poor lighting, and dense vegetation overlap.</li>
 </ul></li>
@@ -744,48 +744,155 @@ ul.task-list li input[type="checkbox"] {
 <section id="appendix-dashboard-layers-and-crime-prevention-frameworks" class="level2">
 <h2 class="anchored" data-anchor-id="appendix-dashboard-layers-and-crime-prevention-frameworks">Appendix: Dashboard Layers and Crime Prevention Frameworks</h2>
 <p>The Safer Parks Dashboard layers have been designed in alignment with the Safer Parks guidance (Safer Parks Consortium, 2025). They also connect to broader crime prevention frameworks, including the Ten Principles of Crime Prevention developed by Secured by Design, and the evidence base on effective interventions to reduce violence against women and girls in public spaces (Home Office, 2025). The table below maps each dashboard layer to the most relevant crime prevention principle, where applicable.</p>
-<p>Data layer</p>
-<p>Relevant principle</p>
-<p>Summary</p>
-<p>Park Boundary</p>
-<p>—</p>
-<p>—</p>
-<p>Access and Exit Points</p>
-<p>Principle 5: Access Control</p>
-<p>Reducing or managing access to vulnerable areas limits criminal opportunity. Understanding entry and exit points supports decisions about park access design and management.</p>
-<p>Active Travel Route</p>
-<p>—</p>
-<p>—</p>
-<p>Basemap</p>
-<p>—</p>
-<p>—</p>
-<p>Predicted Route Popularity</p>
-<p>Principle 6: Surveillance</p>
-<p>Natural surveillance is strengthened by the presence of people. Routes with higher footfall support informal surveillance through activity and visibility.</p>
-<p>Visibility Analysis</p>
-<p>Principle 6: Surveillance</p>
-<p>Clear sightlines support natural surveillance. Areas with poor visibility may reduce the perception of safety and limit informal oversight.</p>
-<p>Demographics Data</p>
-<p>—</p>
-<p>—</p>
-<p>Park Features</p>
-<p>Principle 7: Environmental Change</p>
-<p>Well-designed and maintained environments are less likely to experience crime. Facilities and amenities attract activity and contribute to a sense of care and ownership of space.</p>
-<p>Foliage</p>
-<p>Principle 7: Environmental Change</p>
-<p>Vegetation contributes to environmental quality but can also reduce sightlines. Thoughtful planting and maintenance support both amenity and safety.</p>
-<p>Street Lighting</p>
-<p>Principles 6 and 9: Surveillance; Increase the Chances of Being Caught</p>
-<p>Lighting supports both natural and formal surveillance and increases the likelihood that offenders will be seen and identified.</p>
-<p>Benches and Picnic Tables</p>
-<p>Principle 7: Environmental Change</p>
-<p>Seating encourages people to spend time in parks, increasing natural surveillance and a sense of community ownership of space.</p>
-<p>References</p>
+<table>
+<colgroup>
+<col style="width: 27%">
+<col style="width: 27%">
+<col style="width: 44%">
+</colgroup>
+<thead>
+<tr>
+<th>
+<strong>Data layer</strong>
+</th>
+<th>
+<strong>Relevant principle</strong>
+</th>
+<th>
+<strong>Summary</strong>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+Park Boundary
+</td>
+<td>
+—
+</td>
+<td>
+—
+</td>
+</tr>
+<tr>
+<td>
+Access and Exit Points
+</td>
+<td>
+Principle 5: Access Control
+</td>
+<td>
+Reducing or managing access to vulnerable areas limits criminal opportunity. Understanding entry and exit points supports decisions about park access design and management.
+</td>
+</tr>
+<tr>
+<td>
+Active Travel Route
+</td>
+<td>
+—
+</td>
+<td>
+—
+</td>
+</tr>
+<tr>
+<td>
+Basemap
+</td>
+<td>
+—
+</td>
+<td>
+—
+</td>
+</tr>
+<tr>
+<td>
+Predicted Route Popularity
+</td>
+<td>
+Principle 6: Surveillance
+</td>
+<td>
+Natural surveillance is strengthened by the presence of people. Routes with higher footfall support informal surveillance through activity and visibility.
+</td>
+</tr>
+<tr>
+<td>
+Visibility Analysis
+</td>
+<td>
+Principle 6: Surveillance
+</td>
+<td>
+Clear sightlines support natural surveillance. Areas with poor visibility may reduce the perception of safety and limit informal oversight.
+</td>
+</tr>
+<tr>
+<td>
+Demographics Data
+</td>
+<td>
+—
+</td>
+<td>
+—
+</td>
+</tr>
+<tr>
+<td>
+Park Features
+</td>
+<td>
+Principle 7: Environmental Change
+</td>
+<td>
+Well-designed and maintained environments are less likely to experience crime. Facilities and amenities attract activity and contribute to a sense of care and ownership of space.
+</td>
+</tr>
+<tr>
+<td>
+Trees
+</td>
+<td>
+Principle 7: Environmental Change
+</td>
+<td>
+Vegetation contributes to environmental quality but can also reduce sightlines. Thoughtful planting and maintenance support both amenity and safety.
+</td>
+</tr>
+<tr>
+<td>
+Street Lighting
+</td>
+<td>
+Principles 6 and 9: Surveillance; Increase the Chances of Being Caught
+</td>
+<td>
+Lighting supports both natural and formal surveillance and increases the likelihood that offenders will be seen and identified.
+</td>
+</tr>
+<tr>
+<td>
+Benches and Picnic Tables
+</td>
+<td>
+Principle 7: Environmental Change
+</td>
+<td>
+Seating encourages people to spend time in parks, increasing natural surveillance and a sense of community ownership of space.
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>References</strong></p>
 <p>Safer Parks Consortium. (2025). Safer Parks: Improving Access for Women and Girls (2nd ed.). Leeds: University of Leeds. https://doi.org/10.48785/100/352</p>
-<p>Secured by Design. (n.d.). The ten principles of crime prevention. https://crimeprevention.securedbydesign.com/the-ten-principles-of-crime-prevention</p>
-<p>Home Office. (2025). What works to reduce violence against women and girls: A summary of the evidence. Crown copyright. https://assets.publishing.service.gov.uk/media/6943f8a5143d960161547e74/31.260_VAWG_03_Evidence_Review_FINAL_181225_WEB.pdf</p>
-<p>Department for Environment, Food &amp; Rural Affairs (DEFRA). (2022). LiDAR composite digital surface model and digital terrain model. Data.gov.uk. https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme</p>
-<p>OpenStreetMap contributors. (2024). OpenStreetMap data via Geofabrik. https://download.geofabrik.de/</p>
+<p>Secured by Design. (n.d.). The ten principles of crime prevention. <a href="https://crimeprevention.securedbydesign.com/the-ten-principles-of-crime-prevention" class="uri">https://crimeprevention.securedbydesign.com/the-ten-principles-of-crime-prevention</a></p>
+<p>Home Office. (2025). What works to reduce violence against women and girls: A summary of the evidence. Crown copyright. <a href="https://assets.publishing.service.gov.uk/media/6943f8a5143d960161547e74/31.260_VAWG_03_Evidence_Review_FINAL_181225_WEB.pdf" class="uri">https://assets.publishing.service.gov.uk/media/6943f8a5143d960161547e74/31.260_VAWG_03_Evidence_Review_FINAL_181225_WEB.pdf</a></p>
+<p>Department for Environment, Food &amp; Rural Affairs (DEFRA). (2022). LiDAR composite digital surface model and digital terrain model. Data.gov.uk. <a href="https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme" class="uri">https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme</a></p>
+<p>OpenStreetMap contributors. (2024). OpenStreetMap data via Geofabrik. <a href="https://download.geofabrik.de/" class="uri">https://download.geofabrik.de/</a></p>
 
 
 </section>
