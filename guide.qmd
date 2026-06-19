@@ -14,8 +14,9 @@ This should be read alongside the guidance, with each data layer linked to relev
 
 :::{.column-body-outset}
 
-![](assets/Safer Parks_Isometric_Dark Green 01.png){fig-align="center" width="90%" fig-alt="An isometric sketch of a park with trees, paths, benches, and a playground."}
+![Isometric sketch of park by [Harper Perry](www.harperperry.co.uk) for the the [*Safer Parks: Improving Access for Women and Girls* guidance](https://www.makespaceforgirls.co.uk/resources/safer-parks-for-women-and-girls-guidance).](assets/Safer Parks_Isometric_Dark Green 01.png){fig-align="center" width="90%" fig-alt="An isometric sketch of a park with trees, paths, benches, and a playground."}
 :::
+
 
 ## How to use the dashboard
 
