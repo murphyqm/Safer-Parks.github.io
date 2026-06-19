@@ -8,53 +8,92 @@ format:
           <link rel="stylesheet" type="text/css" href="slick/accessible-slick-theme.min.css"/>
 ---
 
+## Research Team
+
+![](assets/team/Untitled.png){fig-align="center" width="100%" alt="Safer Parks Dashboard research team"}
+
 [Collaboration driving safer public spaces ]{.emphasis}
 
-The Safer Parks Dashboard has been shaped through close collaboration with organisations committed to improving safety, access, and inclusion in parks. 
+In addition to the core research team, the Safer Parks Dashboard has been shaped through close collaboration with organisations committed to improving safety, access, and inclusion in parks. 
 
-The work has supported by: 
+The work has been assisted by partners, funders, and supporters, who have provided expertise, resources, and guidance throughout the project. Their contributions have been invaluable in ensuring that the dashboard reflects the needs and priorities of communities across West Yorkshire.
 
-- West Yorkshire Combined Authority 
-- Local authorities across West Yorkshire 
-- West Yorkshire Police  
-- Keep Britain Tidy/Green Flag Awad 
-- Police Crime Prevention Initiatives/Secured by Design 
-- Friends of Parks groups and community organisations, whose local knowledge and lived experience inform the design and validation of the dashboard 
+## Partners
 
 ::: {.carousel}
 
-![](assets/Safer Parks_Isometric_Dark Green 01.png){fig-align="center" width="100%"}
+![](assets/partners/CA-Mayor-blk-cmyk.jpg){fig-align="center" width="100%" alt="West Yorkshire Combined Authority logo"}
 
-![](assets/icon-parks2.svg){fig-align="center" width="100%"}
+![](assets/partners/VRP logo Primary RGB.jpg){fig-align="center" width="100%" alt="West Yorkshire Violence Reduction Partnership logo"}
 
-![](assets/icon-parks3.svg){fig-align="center" width="100%"}
+![](assets/partners/WYP-land-blu-rgb.jpg){fig-align="center" width="100%" alt="West Yorkshire Police logo"}
 
-![](assets/Safer Parks_Isometric_Dark Green 01.png){fig-align="center" width="100%"}
 
-![](assets/icon-parks2.svg){fig-align="center" width="100%"}
+![](assets/partners/sbd-logos.png){fig-align="center" width="100%" alt="Secured by Design logo"}
 
-![](assets/icon-parks3.svg){fig-align="center" width="100%"}
+![](assets/partners/keep_britain_tidy.png){fig-align="center" width="100%" alt="Keep Britain Tidy logo"}
 
-![](assets/Safer Parks_Isometric_Dark Green 01.png){fig-align="center" width="100%"}
+![](assets/partners/Green Flag Award Logo Colour JPEG 1.jpg){fig-align="center" width="100%" alt="Green Flag Award logo"}
 
-![](assets/icon-parks2.svg){fig-align="center" width="100%"}
+![](assets/partners/cropped-VPRC_Logo_Blacktext_RGB-1.jpg){fig-align="center" width="100%" alt="Vulnerability and Policing Research Centre logo"}
 
-![](assets/icon-parks3.svg){fig-align="center" width="100%"}
+![](assets/partners/typace.png){fig-align="center" width="100%"}
 
-![](assets/Safer Parks_Isometric_Dark Green 01.png){fig-align="center" width="100%"}
+![](assets/partners/CBMDC-colour-RGB.jpg){fig-align="center" width="100%" alt="Bradford Council logo"}
 
-![](assets/icon-parks2.svg){fig-align="center" width="100%"}
+![](assets/partners/calderdale council.png){fig-align="center" width="100%" alt="Calderdale Council logo"}
 
-![](assets/icon-parks3.svg){fig-align="center" width="100%"}
+![](assets/partners/Kirklees logo_Black.png){fig-align="center" width="100%" alt="Kirklees Council logo"}
+
+![](assets/partners/LCC logo Full colour Transparent.png){fig-align="center" width="100%" alt="Leeds Council logo"}
+
+![](assets/partners/wakefield_logo.svg){fig-align="center" width="100%" alt="Wakefield Council logo"}
 
 :::
+
+<hr>
+
+## Funders
+
+::: {.carousel2}
+
+![](assets/partners/Research England.png){fig-align="center" width="100%" alt="Research England logo"}
+
+![](assets/partners/policy_leeds.jpeg){fig-align="center" width="100%" alt="Policy Leeds logo"}
+
+![](assets/partners/leeds_uni.png){fig-align="center" width="100%" alt="University of Leeds logo"}
+
+:::
+
+<hr>
+
+## Illustrations and brand identity
+
+![](assets/partners/Harper Perry Logo_RGB_Colour.png){fig-align="center" width="25%" alt="Harper Perry logo"}
+
+
+<hr>
+
+## Supporters
+
+If you are taking part in the pilot study, and are happy for your logo to be shown here, please let us know!
+
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 <script src="slick/slick.min.js"></script>
 <script>
 $(document).ready(function(){
   $('.carousel').slick({
-    slidesToShow: 4,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 2000,
+    infinite: true,
+    dots: true,
+    arrows: true
+  });
+  $('.carousel2').slick({
+    slidesToShow: 3,
     slidesToScroll: 1,
     infinite: true,
     dots: true,
