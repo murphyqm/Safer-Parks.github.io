@@ -20,6 +20,13 @@ html {
   font-size: 100%; // This equals 1rem and honors browser/user settings
 }
 
+.footer-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.2rem;
+}
+
 body {
   font-family: inherit; // Inherit from html element
 }

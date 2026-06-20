@@ -9,7 +9,7 @@ execute:
 website:
   title: "The Safer Parks Dashboard"
   favicon: assets/icon-parks4.svg
-  body-footer: <p><small>© University of Leeds, 2025 | <a href="about.html">About</a> | <a href="privacy.html">Privacy & Cookies</a> | <a href="https://www.leeds.ac.uk/about/doc/accessibility-statement" target="_blank" rel="noopener">Accessibility</a></small></p> | <p><small><a href="#" id="open_preferences_center">Update cookies preferences</a></small></p>
+  body-footer: <div class="footer-wrapper  column-page"><p><small>© University of Leeds, 2025 | <a href="about.html">About</a> | <a href="privacy.html">Privacy & Cookies</a> | <a href="https://www.leeds.ac.uk/about/doc/accessibility-statement" target="_blank" rel="noopener">Accessibility</a></small></p>  <p><small><a href="#" id="open_preferences_center">Update cookies preferences</a></small></p>  <p><small><img src="assets/partners/leeds_uni.png" alt="University of Leeds logo" width="200px"></small></p></div>
   navbar:
     left:
       - href: index.qmd
