@@ -18,7 +18,7 @@ In addition to the core research team, the Safer Parks Dashboard has been shaped
 
 The work has been assisted by partners, funders, and supporters, who have provided expertise, resources, and guidance throughout the project. Their contributions have been invaluable in ensuring that the dashboard reflects the needs and priorities of communities across West Yorkshire.
 
-## Partners
+## Partners and Funders
 
 ::: {.carousel}
 
@@ -28,8 +28,9 @@ The work has been assisted by partners, funders, and supporters, who have provid
 
 ![](assets/partners/WYP-land-blu-rgb.jpg){fig-align="center" width="100%" alt="West Yorkshire Police logo"}
 
+![](assets/partners/cpi.png){fig-align="center" width="100%" alt="Crime prevention initiative logo"}
 
-![](assets/partners/sbd-logos.png){fig-align="center" width="100%" alt="Secured by Design logo"}
+![](assets/partners/sbd-logos.png){fig-align="center" width="60%" alt="Secured by Design logo"}
 
 ![](assets/partners/keep_britain_tidy.png){fig-align="center" width="100%" alt="Keep Britain Tidy logo"}
 
@@ -49,30 +50,30 @@ The work has been assisted by partners, funders, and supporters, who have provid
 
 ![](assets/partners/wakefield_logo.svg){fig-align="center" width="100%" alt="Wakefield Council logo"}
 
-:::
-
-<hr>
-
-## Funders
-
-::: {.carousel2}
-
-![](assets/partners/Research England.png){fig-align="center" width="100%" alt="Research England logo"}
+![](assets/partners/ukri.png){fig-align="center" width="100%" alt="UKRI logo"}
 
 ![](assets/partners/policy_leeds.jpeg){fig-align="center" width="100%" alt="Policy Leeds logo"}
 
 ![](assets/partners/leeds_uni.png){fig-align="center" width="100%" alt="University of Leeds logo"}
 
+
 :::
 
+<br>
+
 <hr>
+
+<br>
 
 ## Illustrations and brand identity
 
 ![](assets/partners/Harper Perry Logo_RGB_Colour.png){fig-align="center" width="25%" alt="Harper Perry logo"}
 
+<br>
 
 <hr>
+
+<br>
 
 ## Supporters
 
