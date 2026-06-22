@@ -42,6 +42,13 @@
     "text": "Please select your region from the list below to launch the relevant view on the dashboard. You can also scroll down to the map below to check which region you are in. The map is interactive, so you can zoom in and out to see the regions more clearly. Please note that simplified geometries are used for the map to improve performance, so some regions may appear slightly different from their actual boundaries.\nTip: bookmark your region’s dashboard view for quick access in the future."
   },
   {
+    "objectID": "launch.html#coming-soon",
+    "href": "launch.html#coming-soon",
+    "title": "Select your region",
+    "section": "Coming soon:",
+    "text": "Coming soon:\n\nIn-dashboard feature guide: we will be directly linking to the relevant section of the data layers guide from the dashboard, so you can quickly understand what each feature represents. This will be shown as a pop-up when you click on the feature name in the legend.\nExtended datasets: we will be adding further datasets to the dashboard; if you spot a dataset that you think should be available for your area but isn’t please let us know!\ndemographics plots: we will be adding user-friendly plots to help you understand and use the demographics data provided for the larger park catchment areas. This will be shown as a pop-up when you click on the demographics layer in the legend.\n“Print-park” function: currently, downloading a static version of the park map must be done manually using your ocmputer’s screen-capture function. We will be adding a “print-park” function to the dashboard so you can download a static version of the map with all the features and layers you have selected.\nDirect download link: as per the previous iteration of the dashboard, we will be adding a “download dataset” button to the dashboard so you can download the datasets for your selected park/area directly from the dashboard and analyse them on your machine using your chosen GIS software."
+  },
+  {
     "objectID": "launch.html#england",
     "href": "launch.html#england",
     "title": "Select your region",
