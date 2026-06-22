@@ -7,6 +7,24 @@ Please select your region from the list below to launch the relevant view on the
 
 Tip: bookmark your region's dashboard view for quick access in the future.
 
+::: {.callout-note appearance="simple"}
+## Before you browse!
+
+- The data layers guide is linked from the top navbar of the dashboard, please keep this open alongside the dashboard to understand what each layer represents, and to understand the assumptions and limitations of the data.
+- Please note you may need to zoom out to see features near the park, e.g.  toilets, the National Cycle Network, etc.
+- First, choose an authority/area. Then, you can zoom and select a park from the map or from the drop-down menu.
+- Most features have additional information that will be shown when you click on them, e.g. the name of a park, or the type of feature (e.g. a toilet, a cycle route, etc.); explore the map and hover/click over datasets.
+
+## Coming soon:
+
+- In-dashboard feature guide: we will be directly linking to the relevant section of the data layers guide from the dashboard, so you can quickly understand what each feature represents. This will be shown as a pop-up when you click on the feature name in the legend.
+- Extended datasets: we will be adding further datasets to the dashboard; if you spot a dataset that you think should be available for your area but isn't please let us know!
+- demographics plots: we will be adding user-friendly plots to help you understand and use the demographics data provided for the larger park catchment areas. This will be shown as a pop-up when you click on the demographics layer in the legend.
+- "Print-park" function: currently, downloading a static version of the park map must be done manually using your ocmputer's screen-capture function. We will be adding a "print-park" function to the dashboard so you can download a static version of the map with all the features and layers you have selected.
+- Direct download link: as per the previous iteration of the dashboard, we will be adding a "download dataset" button to the dashboard so you can download the datasets for your selected park/area directly from the dashboard and analyse them on your machine using your chosen GIS software.
+
+:::
+
 :::::{.column-screen-inset}
 
 ::::{.grid}
