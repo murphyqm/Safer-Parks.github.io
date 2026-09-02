@@ -50,8 +50,9 @@ h1 {
 .navbar-brand {
   font-family: "MrDodo Regular", serif;
   font-weight: 400;
-  font-size: 2rem !important;
+  font-size: 1.5rem;  // Smaller range
   color: #D5D2E5 !important;
+  // Keep white-space: nowrap from Bootstrap
 }
 
 @media (max-width: 768px) {
@@ -60,10 +61,11 @@ h1 {
   }
 }
 
+
 .nav-item .nav-link .menu-text {
   font-family: "MrDodo Regular", serif;
   font-weight: 400;
-  font-size: 1.2rem !important;
+  font-size: clamp(0.7rem, 5vw, 1.2rem) !important;  // scales smoothly between 0.9rem and 1.2rem
 }
 
 .nav-item .nav-link {
