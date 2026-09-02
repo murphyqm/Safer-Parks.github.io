@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -40,10 +43,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-49846de329f1d411657148867c77620f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-d0774b726680a9a96942adc0e817b8fb.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -198,7 +201,7 @@ ul.task-list li input[type="checkbox"] {
 <p>The dashboard is most effective when layers are used together. Park safety and inclusion is shaped by multiple factors, for example, a busy route might be poorly lit, or an access point might be obscured by dense vegetation. Combining layers helps build a clear, more complete understanding of where spaces may feel or be less safe. Suggested layer combinations are provided in Section 4.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="assets/how_to_use.png" class="img-fluid figure-img" style="width:70.0%"></p>
+<p><img src="assets/Partners_graphic-2.png" class="img-fluid figure-img" style="width:90.0%"></p>
 <figcaption>How might different groups use the dashboard to improve participation and safety for women and girls in parks?</figcaption>
 </figure>
 </div>
@@ -582,7 +585,8 @@ ul.task-list li input[type="checkbox"] {
 <div class="callout-body-container callout-body">
 <section id="what-is-this-layer-9" class="level3">
 <h3 class="anchored" data-anchor-id="what-is-this-layer-9">What is this layer?</h3>
-<p>Locations of street lighting within and around parks. The layer is displayed as a heatmap.</p>
+<p>Locations of street lighting within and around parks. The layer is displayed as point data.</p>
+<p>We provide street lighting data from Open Street Maps: this data is quite sparse, and may not be accurate. For our pilot WYCA areas, we have also used local authority data to supplement the OSM data. We hope to add to the lighting dataset in future, and welcome any contributions from local authorities.</p>
 </section>
 <section id="how-to-use-this-information-9" class="level3">
 <h3 class="anchored" data-anchor-id="how-to-use-this-information-9">How to use this information</h3>
@@ -636,7 +640,9 @@ ul.task-list li input[type="checkbox"] {
 <section id="what-layers-could-be-combined-8" class="level3">
 <h3 class="anchored" data-anchor-id="what-layers-could-be-combined-8">What layers could be combined?</h3>
 <p>For deeper insight, use alongside the <em>Visibility Analysis, Foliage,</em> <em>Predicted Route Popularity</em>, and <em>Street Lighting</em> layers.</p>
-<p>W### here is the data from?</p>
+</section>
+<section id="where-is-the-data-from-10" class="level3">
+<h3 class="anchored" data-anchor-id="where-is-the-data-from-10">Where is the data from?</h3>
 <p>This layer uses Ordnance Survey and OpenStreetMap.</p>
 </section>
 </div>
