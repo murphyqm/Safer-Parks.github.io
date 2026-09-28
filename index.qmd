@@ -31,7 +31,7 @@ toc: false
 ::::
 
 ::::{.d-flex .justify-content-center}
-[Launch the dashboard](launch.qmd){.btn .btn-primary .btn-lg .rounded-pill}
+[Launch the dashboard](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAXBwxLRUMlhBRURVNEdFT1NPWlVWVk83UTgxQUdWMy4u){.btn .btn-primary .btn-lg .rounded-pill}
 ::::
 
 <br>

@@ -25,7 +25,7 @@ website:
       - data.qmd
       - partners.qmd
       - text: Launch
-        href: launch.qmd
+        href: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAXBwxLRUMlhBRURVNEdFT1NPWlVWVk83UTgxQUdWMy4u
 
 format:
   html:
