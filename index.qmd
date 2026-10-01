@@ -31,29 +31,25 @@ toc: false
 ::::
 
 ::::{.d-flex .justify-content-center}
-[Launch the dashboard](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAXBwxLRUMlhBRURVNEdFT1NPWlVWVk83UTgxQUdWMy4u){.btn .btn-primary .btn-lg .rounded-pill}
+[Register to access the dashboard](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.cloud.microsoft%2FPages%2FResponsePage.aspx%3Fid%3DqO3qvR3IzkWGPlIypTW3y_21PdTtSidAqW-TSzvWOgxUMzk3UlRYQjJXTUMwNlQyVk1RREUxVjM1Qy4u&data=05%7C02%7C%7Ca12ccb7fa0fe445c7a7508df1efa6611%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639263732943170416%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=s5tWC7RH%2B3qM5xB6FXmxefbxXvlrComEvu52l%2F1Xjlc%3D&reserved=0){.btn .btn-primary .btn-lg .rounded-pill}
 ::::
 
 <br>
 
-::: {.text-box}
+<!-- ::: {.text-box}
 
-[User testing complete]{.emphasis}
+[Access the dashboard]{.emphasis}
 
-Thank you for taking part in the pilot session; we will be updating the dashboard based on your feedback. The dashboard will be offline as we incorporate these changes and prepare for the launch. If you haven't yet, please leave your feedback below in our user survey!
+In order to access the dashboard, you must complete a brief registration form. This allows us to maintain internal records and improve our service.
 
-
-::::{.d-flex .justify-content-center}
-[Report something broken](https://forms.office.com/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y7F71Nw9669Pjl45v2S4qgtURTNCQzlWR01UQzNFV0pEVTM2OFlON0RHTS4u){.btn .btn-primary .btn-lg .rounded-pill} [Complete pilot user survey](https://forms.office.com/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y3CZNq81K0JPjDKGeEpvxNlUMlY4NlI1OTBLVUtHVFFONkpWRUYxOEVYNi4u){.btn .btn-primary .btn-lg .rounded-pill} 
-::::
-
+<br>
 
 <details>
   <summary style="color: #572B6F !important;">Warranty and liability (click to expand)</summary>
   The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 </details>
 
-:::
+::: -->
 
 <br>
 
@@ -66,6 +62,12 @@ It brings together open spatial data on the indicators that matter most, includi
 Aligned with the [*Safer Parks: Improving Access to Women and Girls* guidance](https://eprints.whiterose.ac.uk/id/eprint/229530/1/250908_Safer%20Parks_PCPI_Single.pdf), the dashboard provides a clear evidence base to support better design, management, and prevention activity.
 
 Explore the data to see how this tool can support your work in creating parks that feel welcoming, inclusive, and safe for everyone.
+
+<details>
+  <summary style="color: #572B6F !important;">Warranty and liability (click to expand)</summary>
+  The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+</details>
+
 
 :::
 
