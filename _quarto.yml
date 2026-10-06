@@ -24,8 +24,8 @@ website:
       - guide.qmd
       - data.qmd
       - partners.qmd
-      - text: Launch
-        href: https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.cloud.microsoft%2FPages%2FResponsePage.aspx%3Fid%3DqO3qvR3IzkWGPlIypTW3y_21PdTtSidAqW-TSzvWOgxUMzk3UlRYQjJXTUMwNlQyVk1RREUxVjM1Qy4u&data=05%7C02%7C%7Ca12ccb7fa0fe445c7a7508df1efa6611%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639263732943170416%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=s5tWC7RH%2B3qM5xB6FXmxefbxXvlrComEvu52l%2F1Xjlc%3D&reserved=0
+      - text: Dashboard
+        href: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y_21PdTtSidAqW-TSzvWOgxUNzlNSDBOWFBSN1JQM0YzUEhYUDdTOE5TNC4u
 
 format:
   html:
