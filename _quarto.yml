@@ -18,11 +18,12 @@ website:
   body-footer: <div class="footer-wrapper  column-page"><p><small>© University of Leeds, 2025 | <a href="about.html">About</a> | <a href="privacy.html">Privacy & Cookies</a> | <a href="https://www.leeds.ac.uk/about/doc/accessibility-statement" target="_blank" rel="noopener">Accessibility</a></small></p>  <p><small><a href="#" id="open_preferences_center">Update cookies preferences</a></small></p>  <p><small><img src="assets/partners/leeds_uni.png" alt="University of Leeds logo" width="200px"></small></p></div>
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - about.qmd
       - guide.qmd
-      - data.qmd
+      - text: Methods
+        href: data.qmd
+      - text: FAQs
+        href: faqs.qmd
       - partners.qmd
       - text: Dashboard
         href: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y_21PdTtSidAqW-TSzvWOgxUNzlNSDBOWFBSN1JQM0YzUEhYUDdTOE5TNC4u
