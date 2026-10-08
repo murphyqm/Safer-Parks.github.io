@@ -1,0 +1,47 @@
+# Frequently Asked Questions 
+
+This page answers common questions about errors or missing information on the dashboard map and what can be corrected and how. For instructions on updating the basemap or fixing park features, also see the companion guide, ‘Reporting map errors in OpenStreetMap.’ 
+
+## Errors in the background map 
+
+### There is an error (or information, such as a nearby school, is missing) in the background map. Can you fix it? 
+
+This is an issue we have encountered as well. The background map uses OpenStreetMap (OSM) data, the same source as our park features, so while we can't edit it ourselves inside the dashboard, you can correct it directly in OSM. Our guide 'Reporting map errors in OpenStreetMap' explains how. 
+
+## A park feature is incorrect or not visible 
+
+### A park feature (such as a path, entrance, toilet, or bench) is incorrect or missing. Can it be corrected? 
+
+Yes, mostly. Most park features we use in the layers come from OpenStreetMap (OSM), a free data source that anyone can edit. You can correct or add features yourself, so they will be corrected when we update the layers that pull info from OSM. The companion guide explains how. One thing to note: your edit appears on OpenStreetMap within minutes, but it will only show on the dashboard when we next refresh the data. We aim to do this quarterly. Please let us know about any incorrect or missing features in the meantime using the ‘Report something broken’ button in the ‘Home’ tab of the dashboard, so we can track or report them.  
+
+## Other data layers not appearing 
+
+### Why is demographic data not appearing for this greenspace? 
+
+Demographic (catchment) data is only generated for parks of 10 hectares or more, so smaller parks will not show it.  
+
+### Why is street lighting not showing? 
+
+We use open data and council data for this layer. Street lighting depends on the availability of open data for that area, and coverage can vary; in some locations, the layer may be missing where lighting is actually present or may capture some lighting types (e.g. standard council lamp posts) but not others (e.g. decorative or park-specific fixtures). We're aware of these gaps and are working to improve accuracy over time. If you spot a discrepancy, please let us know using the 'Report something broken' button. Similarly, if your organisation has data available, please let us know so we can incorporate it.  
+
+## When was this data last updated? 
+
+Different layers come from different sources and are updated at different times. The layers we draw from OpenStreetMap are refreshed when we update the dashboard, which we aim to do quarterly. Other layers, such as demographic or street lighting data, depend on when their source data is released. Demographic data, for example, comes from the latest Census. If you need the update date for a specific layer, please contact the Safer Parks team. 
+
+## We have official data (for example, from our office or council) that we think could be useful. How can we share it? 
+
+We would really welcome this. If you hold official or local data that could improve a layer (for example street lighting, paths, entrances, or amenities), please get in touch with the Safer Parks team. It helps if the data can be shared in a common format, such as a spreadsheet with locations or a GIS file like GeoJSON or a shapefile, and if you are able to share it as open data, since that is easiest for us to include and keep up to date. We will then look at whether and how it can be added to the dashboard. 
+
+## We work as park managers or designers. Can we add and test proposed changes to a park, to see how they might work? 
+
+Not as a self-service feature in the dashboard at the moment. The dashboard currently shows existing park features and conditions, rather than letting you model hypothetical changes yourself. That said, the methods behind the dashboard can assess how a proposed change, for example a new path, entrance, or lighting, might affect measures such as visibility or route use. If this would be useful for your park, we would be interested to hear from you, and scenario-testing tools are something we hope to develop in future. 
+
+## What does "low visibility" mean on the dashboard?  
+
+"Low visibility" reflects areas with reduced natural surveillance, for example, fewer sightlines, more enclosed or obstructed views. Research has linked this to a higher perceived lack of safety, particularly for women and girls, rather than a direct measure of crime risk or an aesthetic judgment of the park. It's worth reading this alongside the Predicted Route Popularity layer: a low-visibility area with high footfall and natural co-presence (people passing through, "eyes on the space") can feel and function very differently from a low-visibility area that's also quiet or isolated. Looking at the two layers together gives a fuller picture than visibility alone. 
+
+## Will the dashboard include crime and anti-social behaviour (ASB) data? 
+
+This request is not being taken forward at this stage. Given the sensitivity of this type of data, whether and how it could be integrated is still under discussion, and this page will be updated if that changes. 
+
+## Cannot find your answer, or want to report something? Please contact the Safer Parks team. 
