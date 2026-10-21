@@ -270,7 +270,7 @@
     "href": "faqs.html#when-was-this-data-last-updated",
     "title": "Frequently Asked Questions",
     "section": "When was this data last updated?",
-    "text": "When was this data last updated?\nDifferent layers come from different sources and are updated at different times. The layers we draw from OpenStreetMap are refreshed when we update the dashboard, which we aim to do quarterly. Other layers, such as demographic or street lighting data, depend on when their source data is released. Demographic data, for example, comes from the latest Census. If you need the update date for a specific layer, please contact the Safer Parks team."
+    "text": "When was this data last updated?\nDifferent layers come from different sources and are updated at different times. The layers we draw from OpenStreetMap are refreshed when we update the dashboard, which we aim to do quarterly. Other layers, such as demographic or street lighting data, depend on when their source data is released. Demographic data, for example, comes from the latest Census. If you need the update date for a specific layer, please check the Data Layer Guidance table or contact the Safer Parks team."
   },
   {
     "objectID": "faqs.html#we-have-official-data-for-example-from-our-office-or-council-that-we-think-could-be-useful.-how-can-we-share-it",
