@@ -1,5 +1,5 @@
 # Safer Parks Dashboard
 
-We're currently undergoing some planned maintenance!
+Not to be merged!
 
-You can still use the [West Yorkshire Combined Authority dashboard here](https://safer-parks.github.io/archived-dashboard-wyca/).
+Note that this version is not intended to be merged back into the tree; instead, it is meant only for testing dashboard registration.
