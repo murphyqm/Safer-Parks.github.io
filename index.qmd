@@ -4,6 +4,7 @@ toc: false
 
 # Welcome to the Safer Parks Dashboard!
 
+[This is a test version of the site ahead of launch to ensure the registration process works smoothly.]{.emphasis}
 
 [Supporting safer, more inclusive parks for women and girls]{.emphasis}
 
